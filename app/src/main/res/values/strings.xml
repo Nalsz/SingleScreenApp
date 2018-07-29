@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="portfolio_button">portfolio button</string>
+    <string name="website_icon">website icon</string>
+    <string name="description_icon">description icon</string>
+    <string name="email_icon">email icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="company_details">COMPANY DETAILS</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">+2347089899522</string>
+    <string name="email_label">Email</string>
+    <string name="email">nathalsysl@gmail.com</string>
+    <string name="description_label">Description</string>
+    <string name="description">Android Developer, UI, OOP</string>
+    <string name="website_label">Website</string>
+    <string name="website">https://www.github.com/nalsz</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="android_developer">ANDROID DEVELOPER</string>
+    <string name="address">ETA-AGBOR, CALABAR, CROSS RIVER, NIGERIA</string>
+    <string name="web_address">web address</string>
+    <string name="company_image">company image</string>
+</resources>
